@@ -943,10 +943,9 @@ function renderCategories() {
     const customOrder = [
       "custom url",
       "custom file",
-      "fifa 2026",
-      "sports",
       "bangla",
       "news",
+      "sports",
       "kids",
       "indian bangla",
       "entertainment",
