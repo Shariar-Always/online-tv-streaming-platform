@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/online-tv-streaming-platform">
-  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/online-tv-streaming-platform">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Always/online-tv-streaming-platform">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Always/online-tv-streaming-platform">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/online-tv-streaming-platform?style=social">
-  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/online-tv-streaming-platform?style=social">
+  <img src="https://img.shields.io/github/stars/Shariar-Always/online-tv-streaming-platform?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Always/online-tv-streaming-platform?style=social">
 </p>
 
 <p align="center">
@@ -156,7 +156,7 @@ online-tv-streaming-platform/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Shariar-Ahamed/online-tv-streaming-platform.git
+git clone https://github.com/Shariar-Always/online-tv-streaming-platform.git
 cd online-tv-streaming-platform
 ```
 
