@@ -249,7 +249,7 @@ npx cap open android
 * **Changelog & Status Updates:**
   * Added server stream notice handling for temporary loading issues.
   * Created dedicated `FIFA 2026` category with new streams.
-  * Updated portfolio links to the new domain `www.shariarahamed.me` and Telegram channel to `@Alpha_TV_Official`.
+  * Updated portfolio links to the new domain `www.shariarahamed.com` and Telegram channel to `@Alpha_TV_Official`.
 
 ### 🚀 v1.1.2 - Build Code `13`
 * **Automatic Picture-in-Picture (PiP) Mode:**
